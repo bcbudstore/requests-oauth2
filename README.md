@@ -1,5 +1,9 @@
 # requests-oauth2
 
+Appreciatively forked by BCBud with the goal of adding oauth2 password grant type token request support, token-based authentication using Authentication: Bearer < > headers, as well as any GUI dialogs necessary to gather any necessary credentials.
+
+------
+
 This plugins adds OAuth v2.0 support to <a href="http://github.com/kennethreitz">@kennethreitz</a> well-known <a href="http://github.com/kennethreitz/requests">requests</a> library.
 
 requests-oauth2 wants to provide the simplest and easiest way to do OAuth2 in Python. OAuth2 is several orders of magnitude easier to do than old OAuth1.0, so this is basically a simple connection initialization library. If you are looking for a way of doing OAuth 1.0 see <a href="http://github.com/maraujop/requests-oauth">requests-oauth</a>
